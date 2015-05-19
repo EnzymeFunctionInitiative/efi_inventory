@@ -1,0 +1,58 @@
+Strain	Taxonomy ID	BSL*	AECOM gDNA	Genetically Tractable?
+Agrobacterium tumefaciens str. C58 	176299	1	yes	readily 
+Agrobacterium tumefaciens str. K84 	311403	1	yes	readily 
+Agrobacterium tumefaciens str. NTL4	unavailable	1	no	readily 
+Alicyclobacillus acidocaldarius subsp. acidocaldarius	521098	1	no	less readily 
+Amycolatopsis sp. AA4 	unavailable	1	no	
+Bacillus cereus ATCC 14579 	226900	1	yes	
+Bacillus halodurans C-125 	272558	1	yes	
+Bacillus subtilis subsp. subtilis str. 168 	224308	1	yes	readily 
+Bacteroides caccae ATCC 43185	411901	2	yes	
+Bacteroides cellulosilyticus DSM 14838	537012	1	yes	
+Bacteroides fragilis YCH46  	295405	2	no	less readily 
+Bacteroides ovatus ATCC 8483	411476	2	yes	
+Bacteroides thetaiotaomicron MTn  	unavailable	2	no	less readily 
+Bacteroides thetaiotaomicron VPI-5482	226186	2	yes	less readily 
+Bacteroides uniformis ATCC 8492	411479	2	yes	
+Bacteroides vulgatus ATCC 8482	435590	2	yes	
+Bradyrhizobium sp. BTAi1  	288000	1	yes	
+Caulobacter crescentus NA1000 (CB15) 	565050	1	yes	less readily 
+Caulobacter vibriodes CB15 ATCC 19089  	190650	1	yes	
+Chromohalobacter salexigens DSM 3043 BAA-138	290398	1	yes	readily 
+Clostridium scindens ATCC 35704	411468	1	no	
+Clostridium spiroforme DSM 1552	428126	1	yes	
+Collinsella aerofaciens ATCC 25986	411903	1	yes	
+"Cupriavidus  necator H16 (DSM 428, ATCC 17699)"	381666	1	no	readily
+Desulfovibrio salexigens (strain ATCC 14822 / DSM 2638 / NCIB 8403 / VKM B-1763)	526222	1	yes	
+Dorea longicatena DSM 13814	411462	1	yes	
+Escherichia coli K-12 W3110 (ATCC 27325 / DSM 5911)*	316407	1	yes	readily 
+Escherichia coli str. K-12 substr. MG1655  	511145	1	yes	readily 
+Eubacterium rectale ATCC 33656	515619	1	yes	
+Faecalibacterium prausnitzii M21/2	411485	2	yes	
+"Haemophilus influenzae (Rd [KW20], ATCC 51907) "	71421	1	yes	readily
+Halomonas elongata ATCC 33173	768066	1	no	
+Halorubrum lacusprofundi ATCC 49239  	416348	1	no	
+Helicobacter pylori str. 26695  	85962	2	yes	less readily 
+Labrenzia aggregata ATCC 25650  	384765	1	yes	
+Natrialba magadii ATCC 43099  	547559	1	no	
+Ochrobactrum anthropi ATCC 49188	439375	2	yes	
+Parabacteroides distasonis ATCC 8503	435591	2	yes	
+Paracoccus denitrificans ATCC 19367  	unavailable	1	no	
+Polaromonas sp. (strain JS666 / ATCC BAA-500)	296591	1	yes	
+Pseudomonas aeruginosa PAO1  	208964	2	yes	readily 
+Pseudomonas fluorescens Pf-5  	220664	1	yes	readily 
+"Ralstonia eutropha H16 (DSM 428, ATCC 17699)"	381666	1	yes	readily
+Ralstonia pickettii 12J  	402626	1	yes	
+Rhodobacter sphaeroides ATCC BAA-808  	1063	1	yes	readily 
+"Rhodospirillum rubrum (DSM 467, ATCC 11170)  "	269796	1	yes	not readily
+Roseovarius nubinhibens  	314263	1	no	
+Ruminococcus obeum ATCC 29174	411459	1	yes	
+Ruminococcus torques ATCC 27756	411460	1	yes	
+Salmonella enterica subsp. enterica ser. Enteritidis str. P125109  	550537	2	yes	readily 
+Sinorhizobium meliloti 1021  	266834	1	yes	less readily 
+Starkeya novella DSM 506  	639283	1	yes	
+Streptomyces coelicolor A3(2)  	100226	1	no	less readily 
+Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350)	455632	1	no	less readily 
+Streptomyces lividans TK24	457428	1	no	less readily 
+Vibrio cholerae ATCC 14547  	1408477	2	no	less readily 
+Vibrio corallilyticus BAA-450	675814	1	no	
